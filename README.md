@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I’m Kotesh 👋
 
-<!--
-**koteshbabubommana/koteshbabubommana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer (Frontend & Backend) and Data Engineer focused on building
+web applications, backend services, and reliable data pipelines.
 
-Here are some ideas to get you started:
+**What I work with**
+- Python, Java, SQL, JavaScript
+- Backend APIs and data services
+- ETL / ELT pipelines, Spark, Airflow
+- AWS, GCP, Snowflake
+- ML pipelines and model integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+- MS in Data Science, University at Buffalo
+- Industry experience across software and data engineering
+- Open to Frontend, Backend, and Data Engineer roles
+
+📫 Reach me at:  
+- LinkedIn: https://www.linkedin.com/in/kotesh-babu-bommana
