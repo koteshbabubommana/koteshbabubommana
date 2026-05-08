@@ -1,6 +1,6 @@
 # Hi, I'm Kotesh Babu Bommana 👋
 
-Software Engineer focused on backend systems, distributed systems, APIs, cloud infrastructure, and scalable software development using Python, Java, SQL, and C++.
+Software Engineer focused on backend systems, distributed systems, APIs, and scalable cloud applications using Python, Java, SQL, and C++.
 
 ---
 
@@ -23,17 +23,6 @@ PostgreSQL • MySQL • MongoDB • Cassandra
 
 ### Development Practices
 Testing • Debugging • Monitoring • Logging • Performance Optimization
-
----
-
-## What I'm Working On
-
-- Scalable Backend Systems
-- Distributed Systems
-- Cloud Infrastructure
-- API Development
-- System Design
-- Production-Grade Software Engineering
 
 ---
 
