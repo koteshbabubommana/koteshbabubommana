@@ -1,52 +1,104 @@
 # Hi, I'm Kotesh Babu Bommana 👋
 
-Software Engineer focused on backend systems, distributed systems, APIs, and scalable cloud applications using Python, Java, SQL, and C++.
+Software Engineer focused on backend engineering, AI-powered systems, distributed systems, scalable APIs, cloud infrastructure, and production-grade platform development using Python, Java, SQL, Docker, Kafka, Redis, PostgreSQL, FastAPI, TensorFlow, and PyTorch.
+
+I enjoy building scalable backend platforms, distributed processing systems, AI infrastructure, recommendation systems, observability pipelines, and real-time analytics platforms with a strong focus on reliability, monitoring, asynchronous workflows, and production-ready architecture.
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Languages
+## Languages
 Python • Java • SQL • C++ • JavaScript
 
-### Software Engineering
-Data Structures • Algorithms • Object-Oriented Programming • System Design • SDLC
+## Backend Engineering
+FastAPI • REST APIs • Backend Services • API Design • Async Processing • Microservices • System Design
 
-### Backend & Distributed Systems
-REST APIs • Backend Services • Distributed Systems • Microservices • API Design
+## AI & Machine Learning
+TensorFlow • PyTorch • ML Inference Pipelines • Recommendation Systems • AI Monitoring • Experimentation Systems • Analytics Pipelines
 
-### Cloud & Infrastructure
-AWS • Docker • Kubernetes • Linux • CI/CD
+## Distributed Systems
+Kafka • Redis • Celery • Distributed Workflows • Queue Orchestration • Fault-Tolerant Systems • Event Streaming
 
-### Databases
+## Cloud & Infrastructure
+AWS • Docker • Kubernetes • Linux • CI/CD • GitHub Actions
+
+## Databases
 PostgreSQL • MySQL • MongoDB • Cassandra
 
-### Development Practices
-Testing • Debugging • Monitoring • Logging • Performance Optimization
+## Monitoring & Observability
+Prometheus • Logging • Metrics Collection • Anomaly Detection • Monitoring Pipelines • Performance Tracking
+
+## Software Engineering
+Data Structures • Algorithms • Object-Oriented Programming • SDLC • Performance Optimization
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Search & Ranking Backend Platform
-Built a scalable backend search platform with ranking logic, optimized query workflows, REST APIs, filtering, monitoring, and logging for reliable low-latency search operations.
+## Search & Ranking Backend Platform
+Built a scalable FastAPI backend search platform supporting ranking workflows, filtering, pagination, relevance scoring, monitoring, and low-latency API processing for production-style search systems.
 
-### Distributed Task Processing System
-Designed a distributed processing framework supporting scalable task execution, asynchronous workflows, fault tolerance, and system monitoring.
-
-### Monitoring & Observability Framework
-Developed a monitoring and observability platform for tracking logs, system metrics, API performance, and proactive issue detection across services.
+**Tech Stack:** FastAPI • PostgreSQL • Docker • Ranking Algorithms • Monitoring
 
 ---
 
-## Education
+## Distributed Task Processing System
+Designed a distributed task processing platform using FastAPI, Celery, Redis, and Docker supporting asynchronous workers, retries, queue orchestration, monitoring, and fault-tolerant workflows.
 
-**MS in Engineering Science – Data Science**  
+**Tech Stack:** FastAPI • Celery • Redis • Docker • Async Workers
+
+---
+
+## Intelligent Monitoring & Observability Platform
+Developed a production-style observability platform with anomaly detection, API monitoring, metrics tracking, structured logging, Docker deployment, and GitHub Actions CI/CD automation.
+
+**Tech Stack:** FastAPI • Prometheus • Docker • CI/CD • Monitoring
+
+---
+
+## Distributed ML Inference Platform
+Built a scalable distributed ML inference system using FastAPI, PyTorch, Kafka, and Docker supporting real-time prediction APIs, asynchronous inference workflows, monitoring pipelines, and fault-tolerant processing.
+
+**Tech Stack:** FastAPI • PyTorch • Kafka • Docker • Distributed Systems
+
+---
+
+## AI Model Monitoring & Analytics Platform
+Engineered an AI-powered monitoring and analytics platform using FastAPI, TensorFlow, PostgreSQL, Docker, and Prometheus supporting prediction APIs, anomaly detection, analytics reporting, and monitoring infrastructure.
+
+**Tech Stack:** FastAPI • TensorFlow • PostgreSQL • Docker • Prometheus
+
+---
+
+## Recommendation Experimentation Engine
+Developed a real-time recommendation and experimentation engine using FastAPI, Redis, Kafka, PostgreSQL, and Docker supporting ranking workflows, feature processing, A/B testing simulation, analytics pipelines, and event streaming systems.
+
+**Tech Stack:** FastAPI • Kafka • Redis • PostgreSQL • Docker
+
+---
+
+# Current Focus
+
+- Backend Engineering
+- Distributed Systems
+- AI Infrastructure
+- Recommendation Systems
+- Monitoring & Observability
+- Scalable API Platforms
+- Cloud-Native Applications
+
+---
+
+# Education
+
+## MS in Engineering Science – Data Science
 University at Buffalo, SUNY
 
 ---
 
-## Connect With Me
+# Connect With Me
 
+- GitHub: https://github.com/koteshbabubommana
 - LinkedIn: https://www.linkedin.com/in/kotesh-babu-bommana
 - Email: koteshbabubommana@gmail.com
